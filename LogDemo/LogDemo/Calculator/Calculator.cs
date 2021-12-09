@@ -28,5 +28,9 @@ namespace LogDemo.Calculator
         {
             return x / y;
         }
+        public static double squareRoot(double x)
+        {
+            return Math.Sqrt(x);
+        }
     }
 }
