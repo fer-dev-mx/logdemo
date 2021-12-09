@@ -6,7 +6,7 @@ namespace LogDemo
     {
         static void Main(string[] args)
         {
-            
+            var calculator = new Calculator.Calculator();
         }
     }
 }
